@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1763093576053",
+    "fullName": "Sujal",
+    "email": "iamsujalrathore@gmail.com",
+    "username": "sujal8899",
+    "password": "Sujal@8899",
+    "createdAt": "2025-11-14T04:12:56.053Z"
+  },
+  {
+    "id": "1763093605419",
+    "fullName": "Sujal",
+    "email": "test.sujalrathore@gmail.com",
+    "username": "sujal7788",
+    "password": "Sujal@8899",
+    "createdAt": "2025-11-14T04:13:25.419Z"
+  },
+  {
+    "id": "1763093737922",
+    "fullName": "Emily",
+    "email": "emily@gmail.com",
+    "username": "emily123",
+    "password": "emily@123",
+    "createdAt": "2025-11-14T04:15:37.922Z"
+  }
+]
